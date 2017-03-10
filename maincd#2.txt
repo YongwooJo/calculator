@@ -5,6 +5,8 @@ int mul(int a,int b);
 
 
 # 주석을 추가했습니다. 오후 4:27분 
+
+# 주석을 추가했습니다. 오후 4:31분 
 int add(int a, int b)
 {
 	return a + b; 
